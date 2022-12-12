@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/orinayo](https://github.com/orinayo)
 
-- 💬 Ask me about *TypeScript/React/Node**
+- 💬 Ask me about **TypeScript/React/Node**
 
 - 📫 How to reach me **orinayooyelade@gmail.com**
 
