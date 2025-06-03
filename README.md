@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orinayo" alt="orinayo" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Web3 development**
-
-- 👯 I’m looking to collaborate on **JavaScript and Machine Learning projects**
+- 👯 I’m looking to collaborate on **JavaScript and Data Engineering projects**
 
 - 🤝 I’m looking for help with **Python**
 
